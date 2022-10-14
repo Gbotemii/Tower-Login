@@ -1,0 +1,67 @@
+body {
+    background-image: url("Tower1.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;  
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    border-radius: 15px;
+    height: 29px;
+    width: 290px;
+    border: none;
+}
+button {
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 15px;
+    height: 29px;
+    width: 290px;
+    border: none;
+    background-color: rgb(55, 3, 68);
+}
+#text {
+    background-color: rgb(0, 0, 0, 60%);
+    height: 290px;
+    width: 700px;
+    position:absolute;
+    top: 150px;
+    right: 410px;
+    padding: 20px;
+    font-family: serif ;
+    color: rgb(250, 248, 245);
+}
+#form {
+    background-color: rgba(219, 215, 215, 0.8);
+    height: 350px;
+    width: 300px;
+    position:absolute;
+    top: 130px;
+    left: 620px;
+    padding: 20px;
+
+}
+a {
+    text-decoration: none;
+    
+}
+#read {
+    color: rgb(248, 248, 248);
+    background-color: rgb(55, 3, 68);
+    height: 30px;
+    width: 100px;
+    border-radius: 18px;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration-color: azure;
+
+}
+.more {
+    color: azure;
+    text-decoration: none;
+}
